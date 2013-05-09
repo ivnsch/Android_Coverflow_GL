@@ -1,4 +1,4 @@
-Android_Coverflow_GL
+Android_Coverflow_GL (incomplete)
 ====================
 
 Android Coverflow with OpenGL 1.0 (incomplete)
