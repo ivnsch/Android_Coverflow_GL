@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="654px"
+    android:layout_height="581px"
+    android:orientation="vertical"
+    >
+<!--     android:gravity="center" -->
+<!--     android:padding="5dip"  -->
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="654px"
+        android:layout_height="261px"
+        android:scaleType="fitXY"
+        />
+<!--     <TextView -->
+<!--         android:id="@+id/text1" -->
+<!--         android:layout_width="654px" -->
+<!--         android:layout_height="361px" -->
+<!--         android:gravity="center" -->
+<!--         android:textColor="#000000" -->
+<!--         android:background="#ff0000" -->
+<!--         android:textSize="110sp" -->
+<!--         android:padding="10dip" -->
+<!--         android:text="Image" -->
+<!--         /> -->
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="654px"
+        android:layout_height="100px"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textSize="50sp"
+        android:background="#0000ff"
+        android:text="hello!"
+        />
+    
+    <LinearLayout 
+        android:layout_width="654px"
+        android:layout_height="100px"
+        android:gravity="center"
+        >
+        <ImageView
+	        android:id="@+id/shadow"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:src="@drawable/shadow_intro"
+	        android:scaleType="fitXY" 
+	        />
+    </LinearLayout>
+    
+<!--         android:layout_width="654px" -->
+<!--         android:layout_height="120px" -->
+<!--         android:src="@drawable/mario1"  -->
+</LinearLayout>
