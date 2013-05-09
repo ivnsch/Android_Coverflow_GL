@@ -24,7 +24,7 @@ Stopping with this because I don't have time - hopefully somebody else can conti
 - There's picking functionality (disabled), in order to make the slides selectable. It doesn't work well, I think because of missing Z-Order checks.
 Picking basic functionality was taken from http://android-raypick.blogspot.de/2012/04/first-i-want-to-state-this-is-my-first.html
 - There's also functionality to render views (any Android layout), as textures on the slides. 
-- And finally, there's functionality to download used images from the web. For some reason the slides show black on some devices. I haven't checked why.
+- And finally, there's functionality to download used images from the web. For some reason when images are downloaded the slides show black on some devices. I haven't checked why.
 But under certain circunstances, this works, believe me!
 
 Disabled can be enabled uncommenting some easy to find lines in the code.
