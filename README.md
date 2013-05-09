@@ -27,7 +27,7 @@ Picking basic functionality was taken from http://android-raypick.blogspot.de/20
 - And finally, there's functionality to download used images from the web. For some reason the slides show black on some devices. I haven't checked why.
 But under certain circunstances, this works, believe me!
 
-These can be enabled uncommenting some easy to find lines in the code.
+Disabled can be enabled uncommenting some easy to find lines in the code.
 
 
 
