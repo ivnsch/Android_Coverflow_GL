@@ -6,7 +6,7 @@ Android Coverflow with OpenGL 1.0 (incomplete)
 Coverflow View implemented with OpenGL 1.0 (thus compatible with all devices).
 
 
-![ScreenShot](https://raw.github.com/i-schuetz/Android_Coverflow_GL/blob/master/pic.png)
+![ScreenShot](https://raw.github.com/i-schuetz/Android_Coverflow_GL/master/pic.png)
 
 [Video](http://www.youtube.com/watch?v=aR2cxE4JXa4&feature=youtu.be)
 
